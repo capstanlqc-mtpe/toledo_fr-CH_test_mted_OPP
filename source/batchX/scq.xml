@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file id="123" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <items>
+      <item id="456" its:localeFilterType="exclude" its:localeFilterList="en-NZ">
+         <label key="789a">
+            <text>Which of the following best describes your community?</text>
+         </label>
+         <label key="789b">
+            <text>(Please select one response.)</text>
+         </label>
+         <label key="789c">
+            <text>A village</text>
+         </label>
+         <label key="789d">
+            <text>A town</text>
+         </label>
+      </item>
+   </items>
+</file>

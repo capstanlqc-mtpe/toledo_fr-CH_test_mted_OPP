@@ -1,0 +1,16 @@
+27/11/26, 1:49 pm
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	      14	   48	                    273	                   307	     3	
+Remaining:       	       0	    0	                      0	                     0	     0	
+Unique:          	      13	   44	                    247	                   278	     3	
+Unique Remaining:	       0	    0	                      0	                     0	     0	
+
+
+Individual File Statistics:
+
+File Name     	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+batchX/paq.xml	             5	                 0	              5	                        0	         21	              0	          21	                     0	                          117	                                0	                           117	                                       0	                         133	                               0	                          133	                                      0	
+batchX/scq.xml	             4	                 0	              4	                        0	         16	              0	          16	                     0	                           85	                                0	                            85	                                       0	                          97	                               0	                           97	                                      0	
+batchX/tcq.xml	             5	                 0	              4	                        0	         11	              0	           7	                     0	                           71	                                0	                            45	                                       0	                          77	                               0	                           48	                                      0	

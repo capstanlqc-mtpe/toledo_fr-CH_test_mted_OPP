@@ -1,0 +1,102 @@
+------------------------------------
+Packing timestamp: 2026-10-29 17:20:58
+OMT plugin version: null
+User ID: "soutox"
+Project name: [/Users/soutox/Sync/TALIS_2030/TMS/TALIS_2030_qpm-IS_batchX_omt]
+Package name: [/Users/soutox/Sync/TALIS_2030/TMS/TALIS_2030_qpm-IS_batchX_omt/TALIS_2030_qpm-IS_batchX_omt.omt]
+Exclude entry [TALIS_2030_qpm-IS_batchX_omt.omt] from regex [\.((?<!tmx.)zip|omt|7z|rar)$]
+createEmptyFile	[target/.empty]
+addZipDir	file	[source/batchX/paq.xml]
+addZipDir	file	[source/batchX/tcq.xml]
+addZipDir	file	[source/batchX/scq.xml]
+createEmptyFile	[tm/auto/.empty]
+createEmptyFile	[tm/.empty]
+addZipDir	file	[omegat/last_entry.properties]
+addZipDir	file	[omegat/ignored_words.txt]
+addZipDir	file	[omegat/project_save.tmx.202610291716.bak]
+addZipDir	file	[omegat/project_stats.txt]
+addZipDir	file	[omegat/project_save.tmx]
+Exclude entry [omegat/omt-packer.log] from regex [omt-packer\.log$]
+addZipDir	file	[omegat/project_stats.json]
+addZipDir	file	[omegat/learned_words.txt]
+createEmptyFile	[dictionary/.empty]
+createEmptyFile	[glossary/.empty]
+addZipDir	project	[omegat.project]
+Added 11 files to the Zip.
+------------------------------------
+Packing timestamp: 2026-10-29 17:28:07
+OMT plugin version: null
+User ID: "soutox"
+Project name: [/Users/soutox/Sync/TALIS_2030/TMS/TALIS_2030_qpm-IS_batchX_omt]
+Package name: [/Users/soutox/Sync/TALIS_2030/TMS/TALIS_2030_qpm-IS_batchX_omt.omt]
+Exclude entry [TALIS_2030_qpm-IS_batchX_omt.omt] from regex [\.((?<!tmx.)zip|omt|7z|rar)$]
+createEmptyFile	[target/.empty]
+addZipDir	file	[source/batchX/paq.xml]
+addZipDir	file	[source/batchX/tcq.xml]
+addZipDir	file	[source/batchX/scq.xml]
+createEmptyFile	[tm/auto/.empty]
+createEmptyFile	[tm/.empty]
+addZipDir	file	[omegat/last_entry.properties]
+addZipDir	file	[omegat/ignored_words.txt]
+addZipDir	file	[omegat/project_save.tmx.202610291716.bak]
+addZipDir	file	[omegat/project_stats.txt]
+addZipDir	file	[omegat/project_save.tmx]
+Exclude entry [omegat/omt-packer.log] from regex [omt-packer\.log$]
+addZipDir	file	[omegat/project_stats.json]
+addZipDir	file	[omegat/learned_words.txt]
+createEmptyFile	[dictionary/.empty]
+createEmptyFile	[glossary/.empty]
+addZipDir	project	[omegat.project]
+Added 11 files to the Zip.
+------------------------------------
+Packing timestamp: 2026-10-29 17:32:17
+OMT plugin version: null
+User ID: "soutox"
+Project name: [/Users/soutox/Sync/TALIS_2030/TMS/TALIS_2030_qpm-IS_batchX_omt]
+Package name: [/Users/soutox/Sync/TALIS_2030/TMS/TALIS_2030_fr-CH_batchX_omt.omt]
+Exclude entry [TALIS_2030_qpm-IS_batchX_omt.omt] from regex [\.((?<!tmx.)zip|omt|7z|rar)$]
+createEmptyFile	[target/.empty]
+addZipDir	file	[source/batchX/paq.xml]
+addZipDir	file	[source/batchX/tcq.xml]
+addZipDir	file	[source/batchX/scq.xml]
+createEmptyFile	[tm/auto/.empty]
+createEmptyFile	[tm/.empty]
+addZipDir	file	[omegat/last_entry.properties]
+addZipDir	file	[omegat/ignored_words.txt]
+addZipDir	file	[omegat/project_save.tmx.202610291716.bak]
+addZipDir	file	[omegat/project_stats.txt]
+addZipDir	file	[omegat/project_save.tmx]
+Exclude entry [omegat/omt-packer.log] from regex [omt-packer\.log$]
+addZipDir	file	[omegat/project_stats.json]
+addZipDir	file	[omegat/learned_words.txt]
+createEmptyFile	[dictionary/.empty]
+createEmptyFile	[glossary/.empty]
+addZipDir	project	[omegat.project]
+Added 11 files to the Zip.
+------------------------------------
+Packing timestamp: 2026-11-26 17:08:40
+OMT plugin version: null
+User ID: "soutox"
+Project name: [/Users/soutox/Sync/TALIS_2030/TMS/TALIS_2030_qpm-IS_batchX_omt]
+Package name: [/Users/soutox/Sync/Toledo/toledo_fr-CH_test_OPP.omt]
+Exclude entry [TALIS_2030_qpm-IS_batchX_omt.omt] from regex [\.((?<!tmx.)zip|omt|7z|rar)$]
+addZipDir	file	[.DS_Store]
+createEmptyFile	[target/.empty]
+addZipDir	file	[source/.DS_Store]
+addZipDir	file	[source/batchX/paq.xml]
+addZipDir	file	[source/batchX/tcq.xml]
+addZipDir	file	[source/batchX/scq.xml]
+createEmptyFile	[tm/auto/.empty]
+createEmptyFile	[tm/.empty]
+addZipDir	file	[omegat/last_entry.properties]
+addZipDir	file	[omegat/ignored_words.txt]
+addZipDir	file	[omegat/project_save.tmx.202610291716.bak]
+addZipDir	file	[omegat/project_stats.txt]
+addZipDir	file	[omegat/project_save.tmx]
+Exclude entry [omegat/omt-packer.log] from regex [omt-packer\.log$]
+addZipDir	file	[omegat/project_stats.json]
+addZipDir	file	[omegat/learned_words.txt]
+createEmptyFile	[dictionary/.empty]
+createEmptyFile	[glossary/.empty]
+addZipDir	project	[omegat.project]
+Added 13 files to the Zip.

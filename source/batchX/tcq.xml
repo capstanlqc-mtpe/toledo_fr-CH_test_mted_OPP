@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file id="12345" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <items>
+      <item id="1234">
+         <label key="567a">
+            <text>What is your gender?</text>
+         </label>
+         <label key="567b">
+            <text>(Please select one response.)</text>
+         </label>
+         <label key="567c">
+            <text>Female</text>
+         </label>
+         <label key="567d">
+            <text>Male</text>
+         </label>
+         <label key="567e">
+            <text>[Country-specific]</text>
+         </label>
+      </item>
+   </items>
+</file>

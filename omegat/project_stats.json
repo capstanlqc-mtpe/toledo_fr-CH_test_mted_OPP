@@ -1,0 +1,131 @@
+{
+  "total": {
+    "characters-without-spaces": 273,
+    "characters": 307,
+    "words": 48,
+    "files": 3,
+    "segments": 14
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
+  },
+  "unique": {
+    "characters-without-spaces": 247,
+    "characters": 278,
+    "words": 44,
+    "files": 3,
+    "segments": 13
+  },
+  "project": {
+    "root": "/Users/soutox/Sync/Toledo/toledo_fr-CH_test_mted_OPP/",
+    "source-language": "en",
+    "target-language": "fr-CH",
+    "name": "toledo_fr-CH_test_mted_OPP"
+  },
+  "files": [
+    {
+      "total": {
+        "characters-without-spaces": 117,
+        "characters": 133,
+        "words": 21,
+        "files": 0,
+        "segments": 5
+      },
+      "filename": "batchX/paq.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 117,
+        "characters": 133,
+        "words": 21,
+        "files": 0,
+        "segments": 5
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 85,
+        "characters": 97,
+        "words": 16,
+        "files": 0,
+        "segments": 4
+      },
+      "filename": "batchX/scq.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 85,
+        "characters": 97,
+        "words": 16,
+        "files": 0,
+        "segments": 4
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 71,
+        "characters": 77,
+        "words": 11,
+        "files": 0,
+        "segments": 5
+      },
+      "filename": "batchX/tcq.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 45,
+        "characters": 48,
+        "words": 7,
+        "files": 0,
+        "segments": 4
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    }
+  ],
+  "remaining": {
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
+  }
+}

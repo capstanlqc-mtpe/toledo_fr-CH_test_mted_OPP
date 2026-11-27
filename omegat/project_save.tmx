@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_e363cb094" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>(Please select all that apply.)</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>(Veuillez sélectionner toutes les réponses qui s'appliquent.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>(Please select one response.)</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>(Veuillez sélectionner une seule réponse.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A town</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Une ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A village</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Un village</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Father or other male guardian</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Père ou autre tuteur masculin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Female</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Femme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Male</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Homme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Mother or other female guardian</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Mère ou autre tutrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Autre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>What is your gender?</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Quel est votre genre ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which of the following best describes your community?</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Lequel des énoncés suivants décrit le mieux votre communauté ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Who will complete this questionnaire?</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>Qui va répondre à ce questionnaire ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>[Country-specific]</seg>
+      </tuv>
+      <tuv lang="fr-CH">
+        <seg>[Spécifique au pays]</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

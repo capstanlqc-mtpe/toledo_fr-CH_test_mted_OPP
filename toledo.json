@@ -1,0 +1,13 @@
+{
+  "status": "warning",
+  "message": "Translation task (including QE) completed. QE score could not be obtained.",
+  "issues": [],
+  "localization_kit": null,
+  "project_name": "toledo_fr-CH_test_OPP",
+  "engine": null,
+  "char_count_consumption": 307,
+  "system_score": null,
+  "system_score_mmt": 0.8535,
+  "job_id": "6b085b0d59334de17de7c26a",
+  "timestamp": "20261126161509"
+}
