@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tmx version="1.4">
-  <header adminlang="en-us" creationtool="toledo" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT"/>
+  <header adminlang="en-us" creationtool="toledo" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT">
+    <prop type="quality_estimation">lara</prop>
+  </header>
   <body>
     <tu>
       <tuv xml:lang="en">
@@ -9,6 +11,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Qui va répondre à ce questionnaire ?</seg>
       </tuv>
+      <note>0.885</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -17,6 +20,7 @@
       <tuv xml:lang="fr-CH">
         <seg>(Veuillez sélectionner toutes les réponses qui s'appliquent.)</seg>
       </tuv>
+      <note>0.8</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -25,6 +29,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Mère ou autre tutrice</seg>
       </tuv>
+      <note>0.882</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -33,6 +38,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Père ou autre tuteur masculin</seg>
       </tuv>
+      <note>0.903</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -41,6 +47,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Autre</seg>
       </tuv>
+      <note>0.834</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -49,6 +56,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Lequel des énoncés suivants décrit le mieux votre communauté ?</seg>
       </tuv>
+      <note>0.86</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -57,6 +65,7 @@
       <tuv xml:lang="fr-CH">
         <seg>(Veuillez sélectionner une seule réponse.)</seg>
       </tuv>
+      <note>0.841</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -65,6 +74,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Un village</seg>
       </tuv>
+      <note>0.919</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -73,6 +83,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Une ville</seg>
       </tuv>
+      <note>0.905</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -81,6 +92,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Quel est votre genre ?</seg>
       </tuv>
+      <note>0.83</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -89,6 +101,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Femme</seg>
       </tuv>
+      <note>0.866</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -97,6 +110,7 @@
       <tuv xml:lang="fr-CH">
         <seg>Homme</seg>
       </tuv>
+      <note>0.827</note>
     </tu>
     <tu>
       <tuv xml:lang="en">
@@ -105,6 +119,7 @@
       <tuv xml:lang="fr-CH">
         <seg>[Spécifique au pays]</seg>
       </tuv>
+      <note>0.756</note>
     </tu>
   </body>
 </tmx>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header adminlang="en-us" creationtool="toledo" creationtoolversion="1.0" segtype="sentence" srclang="en" o_tmf="OmegaT"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who will complete this questionnaire?</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Qui va répondre à ce questionnaire ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please select all that apply.)</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>(Veuillez sélectionner toutes les réponses qui s'appliquent.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mother or other female guardian</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Mère ou autre tutrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Father or other male guardian</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Père ou autre tuteur masculin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Autre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the following best describes your community?</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Lequel des énoncés suivants décrit le mieux votre communauté ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please select one response.)</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>(Veuillez sélectionner une seule réponse.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A village</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Un village</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A town</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Une ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is your gender?</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Quel est votre genre ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Femme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>Homme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[Country-specific]</seg>
+      </tuv>
+      <tuv xml:lang="fr-CH">
+        <seg>[Spécifique au pays]</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

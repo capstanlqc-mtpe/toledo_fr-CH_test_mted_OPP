@@ -21,7 +21,7 @@
     "segments": 13
   },
   "project": {
-    "root": "/Users/soutox/Sync/Toledo/toledo_fr-CH_test_mted_OPP/",
+    "root": "/tmp/copies/toledo_fr-CH_test_mted_OPP/",
     "source-language": "en",
     "target-language": "fr-CH",
     "name": "toledo_fr-CH_test_mted_OPP"
